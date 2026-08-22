@@ -18,6 +18,7 @@ analytics skills.
 ## Dataset
 
 Source: Ontario Data Catalogue - Select Licence and Registration Data
+[Ontario Data Catalogue — Select Licence and Registration Data](https://data.ontario.ca/dataset/select-licence-and-registration-data)
 
 Dataset snapshot: July 2026
 
