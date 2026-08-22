@@ -39,6 +39,8 @@ Provides high-level KPIs including:
 - Licence status
 - Licence expiry monitoring
 
+![Executive Overview](screenshots/executive-overview.png)
+
 ### 2. Geographic & Business Analysis
 
 Analyzes:
@@ -49,6 +51,8 @@ Analyzes:
 - City and licence-type concentration
 - Interactive filtering
 
+![Geographic Analysis](screenshots/geographic-analysis.png)
+
 ### 3. Business Licence Details
 
 Provides city-level drill-through analysis including:
@@ -58,6 +62,8 @@ Provides city-level drill-through analysis including:
 - Expiry status
 - Business information
 - Detailed regulatory records
+
+![Business Details](screenshots/business-details.png)
 
 ## Key Insights
 
